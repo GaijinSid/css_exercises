@@ -2,17 +2,20 @@
 
 .odd {
     background-color: #ffb6c1;
-    font-family: "Verdana", "DejaVu Sans", sans-serif
+    font-family: Verdana, "DejaVu Sans", Serif;
 }
 #number2 {
-    color: rgb(rgb(31, 140, 230), green, blue);
+    color: hsl(240, 100%, 75%);
     font-size: 36px;
 }
 .three {
     font-size: 24px;
 }
 #number4 {
-    background-color: rgb(red, rgb(118, 239, 118), blue);
+    background-color: rgb(71, 188, 71);
     font-size: 24px;
     font-weight: bold;
 }
+
+
+/* Verdana, "DejaVu Sans", sans-serif; */
