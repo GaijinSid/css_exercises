@@ -10,7 +10,33 @@ img {
 .title {
   font-size: 36px;
   font-weight: 900;
+  display: flex;
+  justify-self: center;
+  margin-bottom: 52px;
 }
+.container {
+  display: flex;
+  justify-content: center;
+  gap: 52px;
+  text-align: center;
+}
+.text {
+  display: flex;
+  flex-wrap: wrap;
+}
+.one.two.three.fou {
+  max-width: 200px;
+  min-width: 200px;
+}
+
+/* Need to make 200px wide without deformation */
+
+
+
+
+
+
+
 
 /* do not edit this footer */
 .footer {
